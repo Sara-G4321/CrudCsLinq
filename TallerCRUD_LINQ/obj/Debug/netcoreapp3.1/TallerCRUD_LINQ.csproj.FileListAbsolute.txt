@@ -1,0 +1,28 @@
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.exe
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.deps.json
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.runtimeconfig.json
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.runtimeconfig.dev.json
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.dll
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.pdb
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.csproj.AssemblyReference.cache
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.AssemblyInfoInputs.cache
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.AssemblyInfo.cs
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.dll
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.pdb
+C:\Users\aotaizao\source\repos\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.genruntimeconfig.cache
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.exe
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.deps.json
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.runtimeconfig.json
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.runtimeconfig.dev.json
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.dll
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\bin\Debug\netcoreapp3.1\TallerCRUD_LINQ.pdb
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.csproj.AssemblyReference.cache
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.AssemblyInfoInputs.cache
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.AssemblyInfo.cs
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.dll
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.pdb
+C:\Users\sgarteaga\OneDrive - Sistemas de información empresarial s.a\SEMILLERO-SIESA\TallerCRUD_LINQ\TallerCRUD_LINQ\obj\Debug\netcoreapp3.1\TallerCRUD_LINQ.genruntimeconfig.cache
